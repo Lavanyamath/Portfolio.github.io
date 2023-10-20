@@ -1,0 +1,85 @@
+
+body{
+    background-image: url(cover.jpg);
+    background-size:1700px 780px ;
+}
+
+#mar{
+    font-size: 100px;
+    margin-left: 230px;
+    color: #FAF3F0;
+}
+
+#wlc{
+    font-size: 100px;
+    color: #FFF0F5;
+    margin-left: 130px;
+}
+
+
+a:link{
+    color: #F9F9F9;
+    background-color: transparent;
+  
+}
+a:visited{
+    color: white;
+    background-color: transparent;
+}
+a:hover{
+    color: #DFCCFB;
+    background-color: transparent;
+}
+
+
+#abt{
+    float: right;
+    margin-right:25px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+
+
+#edu{
+    float: right;
+   
+    margin-right:25px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+
+
+
+#proj{
+    float: right;
+   
+    margin-right:25px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+#cert{
+    float: right;
+    margin-right:25px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+   
+}
+
+#cont{
+    float: right;
+    margin-right:25px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
